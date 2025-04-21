@@ -1,7 +1,7 @@
 # 🚀 Traffic Rider Electron.js Wrapper
 
 ## 📥 Como baixar e jogar?
-1. **Baixe o ZIP** https://github.com/LuizmarCardozo/Traffic-Rider/releases/tag/Portavel
+1. **Baixe o ZIP** https://github.com/LuizmarCardozo/Traffic-Rider-Electron-js/releases/tag/PortGames
 2. **Extraia os arquivos** em uma pasta
 3. **Execute `TrafficRider.exe`** e jogue!
 
